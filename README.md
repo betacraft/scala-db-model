@@ -80,11 +80,11 @@ based sql.
 
 - DBModel
 - Basic annotations for fields
-* primary_key
-* unique
-* required
-* email
-* transient
+    * primary_key
+    * unique
+    * required
+    * email
+    * transient
 - Migration manager without change detection
 - DB manager supporting Postgres
 - Query manager with basic CRUD functionalities
